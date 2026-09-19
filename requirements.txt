@@ -1,0 +1,8 @@
+nnunetv2
+torch
+torchvision
+numpy
+SimpleITK
+nibabel
+scipy
+scikit-image
