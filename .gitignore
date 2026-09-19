@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+*.tar
+*.zip
+*.nii
+*.nii.gz
+*.nrrd
+*.mha
+*.mhd
+
+# nnU-Net generated data
+nnUNet_raw/
+nnUNet_preprocessed/
+nnUNet_results/
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Logs
+*.log
+
+# OS
+.DS_Store
